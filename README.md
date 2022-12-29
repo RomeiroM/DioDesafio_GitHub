@@ -26,7 +26,7 @@ git commit -m "comentário do commit"
 ````
 subir arquivos
 ````
-git push oringin (master ou main)
+git push origin (master ou main)
 ````
 ## Links Úteis
 [Sintaxe básica Markdown](https://www.markdownguide.org/basic-syntax/)
